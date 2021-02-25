@@ -1,0 +1,12 @@
+# Ignore files from the virtual environment creation.
+bin/*
+include/*
+lib/*
+lib64
+pyvenv.cfg
+
+# Ignore the cache
+__pycache__/*
+
+# Ignore .swp files
+*.swp
